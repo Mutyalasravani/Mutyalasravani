@@ -12,7 +12,7 @@ Welcome to my GitHub — a space where I explore data, build projects, and grow 
 - 📊 Passionate about **data analysis**, **visualization**, and **machine learning**
 - 🧠 Currently focused on building strong foundations in **Python**, **DBMS**, and **real-world project development**
 - ✨ Creativity is my strength — **Data** is about future, that we predict to inform and inspire
-- 🌻 Outside of tech, I love **music lover**, **Artist**, **dancing**, and anything artistic
+- 🌻 Outside of tech, I am a **music lover**, **Artist**, **dancing**, and **coding**
 
 ---
 
@@ -33,5 +33,5 @@ Concepts:      DBMS | EDA | Machine Learning | Data preprocessing
 - 📧 mutyalasravani29@gmail.com  
 
 ---
-*⚡ Fun Fact:* I believe that *music*,*hopes*,*practical* and doing the things with love* can introduce us to *new versions of ourselves* — more alive, more connected, and more us 💜
+*⚡ Fun Fact:* I believe that *music*,*hopes*,*practical* and doing the things with fun and tecnical* can introduce us to *new versions of ourselves* 
 
